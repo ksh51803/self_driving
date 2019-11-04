@@ -2,7 +2,7 @@
 ## 자기소개
 *이름 : 김석훈
 *email : sow9857@naver.com
-
+![](https://github.com/cliche90/markdown_tutorial/blob/master/github_logo.png?raw=true)
 ## 학력
 * 고등학교 : 
 * 대학교 : 
